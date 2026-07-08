@@ -152,24 +152,14 @@ const App = () => {
             <br />
             <strong>Team Members:</strong>
             <br />
-            Mayank Kumar Jha (
-            <a href="mailto:IIB2024010@iiita.ac.in" target="_blank">
-              IIB2024010
+            Suryansh Bhardwaj (
+            <a href="mailto:IEC2024032@iiita.ac.in" target="_blank">
+              IEC2024032
             </a>
             )<br />
-            Krish Dhaked (
-            <a href="mailto:IIB2024008@iiita.ac.in" target="_blank">
-              IIB2024008
-            </a>
-            )<br />
-            Himanshu Vitthalani (
-            <a href="mailto:IIB2024009@iiita.ac.in" target="_blank">
-              IIB2024009
-            </a>
-            )<br />
-            Archee Jaiswal (
-            <a href="mailto:IIB2024022@iiita.ac.in" target="_blank">
-              IIB2024022
+            Karan Raj Surya (
+            <a href="mailto:IEC2024044@iiita.ac.in" target="_blank">
+              IEC2024044
             </a>
             )
           </div>

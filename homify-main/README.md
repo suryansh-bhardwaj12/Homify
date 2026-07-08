@@ -37,9 +37,7 @@ Smart Homify is an intuitive smart home automation dashboard that lets users con
 ## 👥 Team Members
 
 - [Suryansh Bhardwaj](https://github.com/suryansh-bhardwaj12)
-- [Krish Dhaked](https://github.com/kd5778)
-- [Himanshu Vitthalani](https://github.com/Himanshu-1903)
-- [Archee Jaiswal](https://github.com/archee_j)
+- [Karan Raj Surya](https://github.com/karanrajsurya)
 
 ---
 ## 📖 Firebase Fetching Methods Explained
